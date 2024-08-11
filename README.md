@@ -1,3 +1,5 @@
+Link tài liệu: https://best-stork-428.notion.site/NLP-Textual-Similarity-56a6d80cf02e4be8bf460623b1dd9580?pvs=4
+
 # STSb Multi MT
 
 ## Giới thiệu
